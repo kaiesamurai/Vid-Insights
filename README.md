@@ -8,6 +8,7 @@ Vid-Insights is a Flask web application that uses MindsDB SDK to analyze sentime
 - Spam analysis of comments on a YouTube video.
 - Generate a summary of the comments on a YouTube video.
 - Generate a list of potential topic names that a YouTuber can consider to grow their channel.
+![image](https://github.com/kaiesamurai/Vid-Insights/assets/168727731/7549a223-5498-4f93-9ecd-33e7c1e17759)
 
 ## Table of Contents
 
